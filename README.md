@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>My tech stack</h2>
+<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
