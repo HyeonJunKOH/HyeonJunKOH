@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <h2>My tech stack</h2>
 <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
-<img src="https://img.shields.io/badge/style-forthebage-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/style-forthebage-red?style=Javascript">
