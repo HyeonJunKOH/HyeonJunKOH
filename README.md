@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 <h2>My tech stack</h2>
-<img src="https://img.shields.io/badge/Javascript-F05138?style=flat-square&logo=Javascript&logoColor=white"/>
+<span><img src="https://img.shields.io/badge/Javascript-F05138?style=flat-square&logo=Javascript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span>
