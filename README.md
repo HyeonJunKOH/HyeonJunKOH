@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요~ 만나서 반가워요~^^ 저의 페이지에 오신걸 환영합니다 👋
 
 <!--
 **HyeonJunKOH/HyeonJunKOH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
