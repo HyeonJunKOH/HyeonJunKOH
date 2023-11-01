@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 
 <h2>My tech stack</h2>
 <span><img src="https://img.shields.io/badge/Javascript-F05138?style=flat-square&logo=Javascript&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=HTML5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Jquery-06B6D4?style=flat-square&logo=Jquery&logoColor=white"/></span>
