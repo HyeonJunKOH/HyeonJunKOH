@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Jquery-06B6D4?style=flat-square&logo=Jquery&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vue.js-154881?style=flat-square&logo=Vue.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Oracle-00B265?style=flat-square&logo=Oracle&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Java-1BA0D7?style=flat-square&logo=Java&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitHub-C3002F?style=flat-square&logo=GitHub&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></span>
