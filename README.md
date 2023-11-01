@@ -1,5 +1,5 @@
-### 안녕하세요~ 만나서 반가워요~^^ 저의 페이지에 오신걸 환영합니다 👋
-
+### Hey! Nice to see you 👋
+<p></p>
 <!--
 **HyeonJunKOH/HyeonJunKOH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>welcome to my page!</p>
+<p>I'm HyeonJunKOH, currently preparing a FE developer and... </p>
+<h3>A little more about me... </h3>
+
 
 <h2>My tech stack</h2>
-<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
+<img src="https://img.shields.io/badge/logo-javascript-blue?=javascript">
