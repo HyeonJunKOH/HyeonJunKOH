@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=HTML5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Jquery-06B6D4?style=flat-square&logo=Jquery&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Vue.js-154881?style=flat-square&logo=Vue.js&logoColor=white"/></span>
